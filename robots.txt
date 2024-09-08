@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ucloplemo.github.io/sitemap.html.gz
+Sitemap: https://ucloplemo.github.io/app/sitemap.html.gz
+Sitemap: https://ucloplemo.github.io/assets/sitemap.html.gz
+Sitemap: https://ucloplemo.github.io/css/sitemap.html.gz
+Sitemap: https://ucloplemo.github.io/includes/sitemap.html.gz
+Sitemap: https://ucloplemo.github.io/item/sitemap.html.gz
+Sitemap: https://ucloplemo.github.io/src/sitemap.html.gz
